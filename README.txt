@@ -2,7 +2,7 @@ README
 ------
 Author: Aaron Carbonell 
 
-Program description: Program  used recursion to determines all unique shortest possible 
+Program description: Program  uses recursion to determine all unique shortest possible 
 paths from the robot to the treasure with the following condition: the robot may never 
 move in the same direction more than MaxDistance times in a row.
 
